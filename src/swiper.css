@@ -1,0 +1,15 @@
+.swiper-container{
+  width: 100%;
+}
+.swiper-slide{
+       margin: 10px;
+      display: flex;
+     align-items: center;
+     justify-content: center;   
+}
+
+.swiper-slide:hover{
+     background-color: azure;
+     color: blueviolet;
+     border-bottom: 1px solid blueviolet;
+}
